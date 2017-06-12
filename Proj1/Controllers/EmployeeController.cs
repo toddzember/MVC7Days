@@ -23,7 +23,7 @@ namespace Proj1.Controllers
     }
     public class EmployeeController : Controller
     {
-
+        //sidekick
         public ActionResult SaveEmployee(employee e, string BtnSubmit)
         {
             switch (BtnSubmit)
